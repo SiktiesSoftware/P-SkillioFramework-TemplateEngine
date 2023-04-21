@@ -35,7 +35,7 @@
    if  [if $i < 5] // TRUE [else if $i > 6] // FALSE TRUE [else] //FALSE FALSE [/if] <br />
    foreach [foreach $foo as $key => $value] ... [/foreach] <br />
    while [while $i < 5] ... [/while] <br />
-   do while [do] ... [/while $i < 5]
+   do while [do] ... [/while $i < 5] <br />
    debug [dump $var]
 
    ## Contributors

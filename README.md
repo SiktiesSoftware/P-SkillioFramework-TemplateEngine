@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Skilio framework - Template engine</h1>
+    <h1>Skillio framework - Template engine</h1>
     <i>Hi, welcome to my project, hope you will like it !</i>                        <br />
     <b> > ENJOY < </b>
 </div>
